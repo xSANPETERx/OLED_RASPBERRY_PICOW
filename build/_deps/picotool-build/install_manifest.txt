@@ -1,0 +1,5 @@
+C:/MICRO_RASP/ACT_6/build/_deps/picotool/picotool.exe
+C:/MICRO_RASP/ACT_6/build/_deps/picotool/picotoolTargets.cmake
+C:/MICRO_RASP/ACT_6/build/_deps/picotool/picotoolTargets-debug.cmake
+C:/MICRO_RASP/ACT_6/build/_deps/picotool/picotoolConfig.cmake
+C:/MICRO_RASP/ACT_6/build/_deps/picotool/picotoolConfigVersion.cmake
